@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "5.15.3",
-    "@nivo/core": "0.69.0",
+    "@nivo/core": "0.80.0",
     "@nivo/line": "0.69.1",
     "@nivo/pie": "0.69.0",
     "@sentry/browser": "5.30.0",
