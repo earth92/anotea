@@ -36,7 +36,7 @@
     "@fortawesome/fontawesome-free": "5.15.3",
     "@nivo/core": "0.69.0",
     "@nivo/line": "0.69.1",
-    "@nivo/pie": "0.69.0",
+    "@nivo/pie": "0.80.0",
     "@sentry/browser": "5.30.0",
     "bootstrap": "4.6.0",
     "bootstrap-datepicker": "1.9.0",
