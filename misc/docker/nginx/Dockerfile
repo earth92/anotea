@@ -1,4 +1,4 @@
-FROM nginx:latest
+FROM nginx:1-bullseye
 
 RUN apt-get update \
     && apt-get install -y logrotate
