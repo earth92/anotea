@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "@sentry/node": "5.18.0",
-    "@slack/webhook": "6.1.0",
+    "@slack/webhook": "7.0.0",
     "basic-auth": "2.0.1",
     "bcryptjs": "2.4.3",
     "body-parser": "1.20.0",
